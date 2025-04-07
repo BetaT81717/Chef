@@ -17,6 +17,9 @@
     },
     {
       "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "chef:cheese"
     }
   ],
   "result": {

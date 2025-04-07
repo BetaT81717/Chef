@@ -1,12 +1,16 @@
 {
   "item.chef.mine_cola": "Mine Cola",
+  "item.chef.apple_jam": "Apple Jam",
   "item.chef.mine_colaempty": "Mine Colaempty",
+  "item.chef.cheese": "Cheese",
+  "item.chef.chocolade": "Chocolade",
+  "block.chef.riceplant": "Riceplant",
+  "item.chef.fries_empty": "Fries Empty",
   "item.chef.sliced_salmon": "Sliced Salmon",
   "item.chef.burger": "Burger",
   "item.chef.rice": "Rice",
   "item.chef.fries": "Fries",
-  "block.chef.riceplant": "Riceplant",
-  "item.chef.fries_empty": "Fries Empty",
+  "item.chef.apple_jam_pie": "Apple Jam Pie",
   "item.chef.sushi": "Sushi",
   "item.chef.knife": "Knife"
 }

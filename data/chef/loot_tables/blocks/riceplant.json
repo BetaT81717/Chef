@@ -8,15 +8,6 @@
         {
           "type": "minecraft:item",
           "name": "chef:rice",
-          "conditions": [
-            {
-              "block": "chef:riceplant",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "half": "lower"
-              }
-            }
-          ],
           "functions": [
             {
               "count": 4,

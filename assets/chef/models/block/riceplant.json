@@ -1,7 +1,7 @@
 {
-  "parent": "block/cross",
+  "parent": "block/crop",
   "textures": {
-    "cross": "chef:block/rice",
+    "crop": "chef:block/rice",
     "particle": "chef:block/rice"
   },
   "render_type": "cutout"

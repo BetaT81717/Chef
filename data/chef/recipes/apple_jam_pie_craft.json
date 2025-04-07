@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "misc",
+  "group": "food",
   "category": "misc",
   "ingredients": [
     {
-      "item": "chef:knife"
+      "item": "chef:apple_jam"
     },
     {
-      "item": "minecraft:cooked_salmon"
+      "item": "minecraft:bread"
     }
   ],
   "result": {
-    "item": "chef:sliced_salmon",
+    "item": "chef:apple_jam_pie",
     "count": 1
   }
 }
