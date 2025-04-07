@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "food",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chef:knife"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "result": {
+    "item": "chef:fries",
+    "count": 1
+  }
+}

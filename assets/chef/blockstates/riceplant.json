@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "chef:block/riceplant"
+    },
+    "half=lower": {
+      "model": "chef:block/riceplant_bottom"
+    }
+  }
+}
